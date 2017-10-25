@@ -1,0 +1,2 @@
+Conclusión: He aprendido a como añadir datos en la base de datos, añadir fotos 
+y como optimizar el codigo.
